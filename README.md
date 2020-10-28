@@ -15,4 +15,3 @@ import Ippopay from 'react-native-ippopay';
 // TODO: What to do with the module?
 Ippopay;
 ```
-# react-native-ippopay
