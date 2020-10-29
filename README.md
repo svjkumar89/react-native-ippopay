@@ -8,8 +8,8 @@
 ```javascript
 import Ippopay from 'react-native-ippopay';
 ```
-## Initate
-To initate the instance use the following code in your componentDidMount or useEffect if you are using functional component
+## Initiate
+To initiate the instance use the following code in your componentDidMount or useEffect if you are using functional component
 ```javascript
 Ippopay.init(YOUR_PUBLIC_KEY)
 ```
