@@ -1,8 +1,10 @@
 # react-native-ippopay
-
+(Currently supporting Android only)
 ## Getting started
 
 `$ npm install react-native-ippopay --save`
+or 
+`$ yarn add react-native-ippopay`
 
 ## Usage
 ```javascript
