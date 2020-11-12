@@ -47,6 +47,7 @@ public class IppopayModule extends ReactContextBaseJavaModule {
         // "pk_test_sHIs7WDKKitk"
     }
 
+
     @ReactMethod
     public void makePayment(ReadableMap options) {
         

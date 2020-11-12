@@ -2,7 +2,7 @@
   "name": "react-native-ippopay",
   "title": "React Native Ippopay",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Ippopay payment integration for React Native (Android)",
   "main": "index.js",
   "files": [
     "README.md",
@@ -14,16 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-ippopay.git",
-    "baseUrl": "https://github.com/github_account/react-native-ippopay"
+    "url": "git+https://github.com/svjkumar89/react-native-ippopay.git",
+    "baseUrl": "https://github.com/svjkumar89/react-native-ippopay"
   },
   "keywords": [
-    "react-native"
+    "react-native, ippopay, react-native-payment"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Vijayakumar Samiyappan",
+    "email": "md.axebelk@gmail.com"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/svjkumar89" },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",

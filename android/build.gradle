@@ -73,7 +73,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation 'com.ippopay:IppoPaySDK:1.0.5'
+    implementation 'com.ippopay:IppoPaySDK:1.0.6'
 }
 
 def configureReactNativePom(def pom) {
